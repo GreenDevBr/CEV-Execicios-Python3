@@ -1,0 +1,13 @@
+Refaça o desafio 035 dos triângulos, acrescentando o recurso
+de mostrar que tipo de triângulo será formado:
+- Equilátero : todos os lados iguais.
+- Isósceles  : dois lados iguais.
+- Escaleno   : todos os lados são diferentes.
+
+
+
+
+Relembrando o desafio 035:
+Desenvolva um programa que leia o comprimento de três retas
+e dia ao usuário se elas podem ou não formar um triângulo.
+r1, r2, r3.

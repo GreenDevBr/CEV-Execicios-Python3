@@ -1,0 +1,1 @@
+Faça um programa que o computador jogue JOKENPO com você :)
